@@ -33,10 +33,10 @@ Invokeit is a powerful, versatile, and user-friendly tool designed to streamline
 
 ```bash
 # Clone the repository
-git clone https://github.com/LX-Royal-Empire/Api-Tester.git
+git clone https://github.com/LX-Royal-Empire/Invokeit.git
 
 # Navigate to the project directory
-cd Api-Tester
+cd Invokeit
 
 # Install dependencies
 pip install -r requirements.txt
